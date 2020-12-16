@@ -76,6 +76,7 @@ consists of scaling, binarization, normalization.
 **Predication**  
 The digit in the image is predicted and displayed.
 
-
-
+**Credentials**
+Program written and model designed by: Aryan Nimesh Mehta
+SmakrtKnower AI Internship - Minor Project Submission
 
