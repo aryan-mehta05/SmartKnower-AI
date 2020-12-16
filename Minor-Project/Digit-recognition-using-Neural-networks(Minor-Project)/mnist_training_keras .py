@@ -4,7 +4,7 @@ Gets to 99.21% test accuracy after 12 epochs
 128 seconds per epoch on a intel i5 CPU.
 '''
 ''' Program written and model designed by: Aryan Nimesh Mehta '''
-''' SmakrtKnower AI Internship - Minor Project Submission '''
+''' SmartKnower AI Internship - Minor Project Submission '''
 
 from __future__ import print_function
 import numpy as np
