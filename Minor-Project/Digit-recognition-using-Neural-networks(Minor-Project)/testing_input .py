@@ -1,3 +1,5 @@
+''' Program written and model designed by: Aryan Nimesh Mehta '''
+''' SmakrtKnower AI Internship - Minor Project Submission '''
 
 from __future__ import division, print_function, absolute_import
 
